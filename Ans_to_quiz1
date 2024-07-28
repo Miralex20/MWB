@@ -1,0 +1,48 @@
+ Scenario 1:
+ 1. Bootstrap 
+ 2. HTML and Javascript
+ 3. HTML
+ Scenario 2:
+ 1. Check the DNS server settings
+ 2. Check for server errors
+ 3. Sending a HTTP request
+ 4. The server processes the request and sends a HTTP response
+ Scenario 3:
+ 1. Fetches resources such as HTML documents
+ 2. HTTP
+ 3. HTTPS
+ Scenario 4:
+ 1. Dynamic website using Javascript and Databases
+ 2. Displays the same content for all users
+ 3. A social media platform like facebook
+ 4. Python
+ Scenario 5:
+ 1. Client requests data, server processes and responds with data
+ 2. To provide data and services requested by the client
+ 3. Server
+ 4. Any device connected to a network
+ Scenario 6:
+ 1. Fetches resources, processes responses, and renders content.
+ 2. Performs a DNS lookup.
+ 3. By performing a DNS lookup.
+ 4. The browser processes and renders the content.
+ Scenario 7:
+ 1. Optimize the size of HTTP responses.
+ 2. Reducing the size of HTTP responses.
+ 3. Minimizing HTTP requests by combining files.
+ 4. By storing copies of frequently accessed resources
+ Scenario 8:
+ 1. Support for CSS and JavaScript. New semantic elements and multimedia support.
+ 2. To structure web page content
+ 3. HTML5
+ 4. To control the layout, style, and appearance of web pages
+ Scenario 9:
+ 1. React.js
+ 2. Bootstrap
+ 3. Jquery
+ 4. React.js
+Scenario 10:
+ 1. Storing copies of frequently accessed resources locally.
+ 2. Reduces server load and speeds up page load times.
+ 3. Cache-Control
+ 4. A frequently accessed static blog page.
